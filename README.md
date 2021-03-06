@@ -1,6 +1,8 @@
 # Zkusebni-projekt
 Zkušební projekt pro společnost Eria.
 
+Program byl psán ve Visual Studiu 2019, v jazyku C# v prostředí Windows Forms (.net Framework).
+
 Jsem si vědom toho, že můj projekt není ani zdaleka perfektní, stejnětak že umí pouze základní "Must-have" prvky. 
 Bohužel však nejsem programátor, ale jen člověk, kterého to programování hrozně chytlo na seminářích VŠ, takže podle toho bude tento projekt i vypadat.
 
